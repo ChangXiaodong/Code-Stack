@@ -1,5 +1,5 @@
 /**
-Data:    2015-12-22
+Data:    2015-12-21
 Status:  Tested on MSP430
 input:   num need to sqrt
 return:  result
